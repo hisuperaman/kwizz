@@ -1,0 +1,5 @@
+/venv
+/.venv
+/kwizz/login/client_credentials.py
+/kwizz/.env
+/kwizz/db.sqlite3
